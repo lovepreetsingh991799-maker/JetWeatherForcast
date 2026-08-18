@@ -1,3 +1,9 @@
+<img width="720" height="1600" alt="WhatsApp Image 2026-08-18 at 9 27 40 PM (1)" src="https://github.com/user-attachments/assets/9b520583-bf94-42b7-a3a3-e7d05a425e5a" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-08-18 at 9 27 40 PM" src="https://github.com/user-attachments/assets/0b27de52-bb29-47c3-ac77-f29e2f349844" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-08-18 at 9 27 39 PM (2)" src="https://github.com/user-attachments/assets/83765416-2a87-4b7e-80cc-00df8eb78f5d" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-08-18 at 9 27 39 PM (1)" src="https://github.com/user-attachments/assets/ead903e6-2cf2-42e2-bf18-4be1c9f65f06" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-08-18 at 9 27 39 PM" src="https://github.com/user-attachments/assets/e0abad43-ee44-45c8-b2d9-86fdf1e788a2" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-08-18 at 9 27 38 PM" src="https://github.com/user-attachments/assets/d2ff2afe-7dd8-41fa-8cc0-df9dc6b3a2ce" />
 [README.md.md](https://github.com/user-attachments/files/31188204/README.md.md)
 <h1>JetWeatherForecast</h1>
 <p>Simple weather forecast app built with Kotlin and Jetpack Compose.</p>
