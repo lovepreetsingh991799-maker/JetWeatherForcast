@@ -98,6 +98,5 @@
 <li>Lovepreet Singh</li>
 <li>Android Developer | Kotlin | Jetpack Compose</li>
 </ul>
-<h2>Screenshots</h2>
-<p>Add your screenshots to a <code>screenshots</code> folder and use the following images:</p>
+
 
