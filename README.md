@@ -100,9 +100,4 @@
 </ul>
 <h2>Screenshots</h2>
 <p>Add your screenshots to a <code>screenshots</code> folder and use the following images:</p>
-<p><img src="screenshots/splash_screen.png" alt="splash_screen.png" width="250"></p>
-<p><img src="screenshots/search_screen.png" alt="search_screen.png" width="250"></p>
-<p><img src="screenshots/main_screen.png" alt="main_screen.png" width="250"></p>
-<p><img src="screenshots/menu.png" alt="menu.png" width="250"></p>
-<p><img src="screenshots/settings_screen.png" alt="settings_screen.png" width="250"></p>
-<p><img src="screenshots/favorite_cities.png" alt="favorite_cities.png" width="250"></p>
+
